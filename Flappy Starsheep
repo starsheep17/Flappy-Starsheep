@@ -1,6 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flappy Starsheep</title>
+  <style>
+    /* Your CSS styles here */
+  </style>
+</head>
+<body>
+  <!-- Your game canvas or elements here -->
+  <canvas id="gameCanvas" width="400" height="600"></canvas>
+
+  <script>
+    // Your JavaScript game code here
+    // For example, the Flappy Starsheep game logic drawing on the canvas
+  </script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Flappy Starsheep17</title>
